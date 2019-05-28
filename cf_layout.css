@@ -1,12 +1,9 @@
 @charset "utf-8";
 
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 4
-   Case Problem 3
-   
+/*   
    Layout Styles for the Chupacabra Music Fest
-   
+   Author: Kat
+   Date: 5-28-19  
    Filename: cf_layout.css
 
 */
@@ -151,7 +148,7 @@ section aside p {
 /* Footer Styles */
 
 footer {
-	background-color: rgba(51, 51, 51, 0.7);
+	background-color: rgba(51, 51, 51, 0.1);
 	clear: left;
 	margin-top: 55px;
 	text-align: center;
